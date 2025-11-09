@@ -4,3 +4,4 @@ https://docs.google.com/spreadsheets/d/1w6e05FHbhDYeTje9YnW2jpvcjmC5k9OWy5cuc06N
 https://app.qase.io/project/G101?previewMode=side&suite=182&tab=
 https://drive.google.com/drive/folders/1p3IH9CePFr-oRiup0tFIKFMtmS41Q-Xe?usp=sharing
 https://artsiomrusau.youtrack.cloud/issue/G11-501/Web-App-Testing-Alena-Kaskevich
+https://drive.google.com/file/d/1u83LhQUL4x83Q3gaXS0h9nIBDf5_5IMF/view?usp=sharing
